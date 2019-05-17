@@ -1,0 +1,4 @@
+#Fri May 17 17:14:15 IST 2019
+base.0=/home/ashu/Documents/PathFindApp/pathFindApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
